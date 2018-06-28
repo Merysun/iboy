@@ -1,4 +1,4 @@
-﻿Cambios sobre WEB 456 - Commit 1
+Cambios sobre WEB 456 - Commit 3
 {
 	"code": 0,
 	"data": {
@@ -6,7 +6,7 @@
 				"idOrderHistory": 6,
 				"dateAdd": 1469632043000,
 				"nameOrderStatus": "Order en proceso",
-				"userAdd": "Rubén",
+				"userAdd": "Ruben",
 				"idOrder": 8002
 			},
 			{
@@ -27,63 +27,63 @@
 				"idOrderHistory": 13,
 				"dateAdd": 1469633384000,
 				"nameOrderStatus": "Punto A: Mensajero llego a Origen",
-				"userAdd": "Rubén",
+				"userAdd": "Ruben",
 				"idOrder": 8002
 			},
 			{
 				"idOrderHistory": 14,
 				"dateAdd": 1469633477000,
 				"nameOrderStatus": "Punto A: En Proceso de Entrega",
-				"userAdd": "Rubén",
+				"userAdd": "Ruben",
 				"idOrder": 8002
 			},
 			{
 				"idOrderHistory": 22,
 				"dateAdd": 1469636519000,
 				"nameOrderStatus": "Punto B: Llegue al Punto de Entrega",
-				"userAdd": "Rubén",
+				"userAdd": "Ruben",
 				"idOrder": 8002
 			},
 			{
 				"idOrderHistory": 23,
 				"dateAdd": 1469637021000,
 				"nameOrderStatus": "Punto B: Punto Entregado",
-				"userAdd": "Rubén",
+				"userAdd": "Ruben",
 				"idOrder": 8002
 			},
 			{
 				"idOrderHistory": 24,
 				"dateAdd": 1469637021000,
 				"nameOrderStatus": "Orden Finalizada",
-				"userAdd": "Rubén",
+				"userAdd": "Ruben",
 				"idOrder": 8002
 			},
 			{
 				"idOrderHistory": 25,
 				"dateAdd": 1469637036000,
 				"nameOrderStatus": "Punto B: Punto Entregado",
-				"userAdd": "Rubén",
+				"userAdd": "Ruben",
 				"idOrder": 8002
 			},
 			{
 				"idOrderHistory": 26,
 				"dateAdd": 1469637036000,
 				"nameOrderStatus": "Orden Finalizada",
-				"userAdd": "Rubén",
+				"userAdd": "Ruben",
 				"idOrder": 8002
 			},
 			{
 				"idOrderHistory": 27,
 				"dateAdd": 1469637049000,
 				"nameOrderStatus": "Punto B: Punto Entregado",
-				"userAdd": "Rubén",
+				"userAdd": "Ruben",
 				"idOrder": 8002
 			},
 			{
 				"idOrderHistory": 28,
 				"dateAdd": 1469637049000,
 				"nameOrderStatus": "Orden Finalizada",
-				"userAdd": "Rubén",
+				"userAdd": "Ruben",
 				"idOrder": 8002
 			}
 		]
