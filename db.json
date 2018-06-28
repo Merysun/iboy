@@ -1,1 +1,90 @@
-{"code":0,"data":[{"idOrderStatus":1,"description":"Cotizacion","name":"quote"},{"idOrderStatus":2,"description":"Orden creada","name":"created"},{"idOrderStatus":3,"description":"Buscando Mensajero Cercano","name":"round_robin"},{"idOrderStatus":4,"description":"Pendiente de Mensajero","name":"available"},{"idOrderStatus":5,"description":"Orden en proceso","name":"in_process"},{"idOrderStatus":6,"description":"Orden Finalizada","name":"finalized"},{"idOrderStatus":7,"description":"Cancelada por el Cliente","name":"cancelled_by_customer"},{"idOrderStatus":8,"description":"Call Center Cancelo","name":"cancelled_by_user"},{"idOrderStatus":9,"description":"Devolucion","name":"devolution\r"},{"idOrderStatus":10,"description":"Finalizada por ausencia","name":"finalized_by_absence"},{"idOrderStatus":11,"description":"Finalizada con resguardo","name":"finalized_with_shelter"},{"idOrderStatus":12,"description":"Cancelada Usuario con cobro","name":"cancelled_by_user_with_collection"},{"idOrderStatus":13,"description":"Mensajero llego a Origen","name":"arrived_at_origin"},{"idOrderStatus":14,"description":"En Proceso de Recoleccion","name":"in_collection_process"},{"idOrderStatus":15,"description":"Llegue al Punto de Entrega","name":"arrived_at_delivery_point"},{"idOrderStatus":16,"description":"Punto Visitado","name":"visited_point"},{"idOrderStatus":17,"description":"Punto Entregado","name":"delivered_point"},{"idOrderStatus":18,"description":"Punto Cancelado","name":"canceled_point"},{"idOrderStatus":19,"description":"Punto Eliminado","name":"deleted_point"},{"idOrderStatus":20,"description":"Resguardo en Proceso","name":"in_shelter_process"},{"idOrderStatus":21,"description":"Cancelada con Resguardo","name":"canceled_with_shelter"}]}
+{
+	"code": 0,
+	"data": {
+		"orderHistories": [{
+				"idOrderHistory": 6,
+				"dateAdd": 1469632043000,
+				"nameOrderStatus": "Order en proceso",
+				"userAdd": "Rubén",
+				"idOrder": 8002
+			},
+			{
+				"idOrderHistory": 4,
+				"dateAdd": 1469632135000,
+				"nameOrderStatus": "Orden creada",
+				"userAdd": "vchavarriaivoy",
+				"idOrder": 8002
+			},
+			{
+				"idOrderHistory": 5,
+				"dateAdd": 1469632135000,
+				"nameOrderStatus": "Pendiente de Mensajero",
+				"userAdd": "vchavarriaivoy",
+				"idOrder": 8002
+			},
+			{
+				"idOrderHistory": 13,
+				"dateAdd": 1469633384000,
+				"nameOrderStatus": "Punto A: Mensajero llego a Origen",
+				"userAdd": "Rubén",
+				"idOrder": 8002
+			},
+			{
+				"idOrderHistory": 14,
+				"dateAdd": 1469633477000,
+				"nameOrderStatus": "Punto A: En Proceso de Entrega",
+				"userAdd": "Rubén",
+				"idOrder": 8002
+			},
+			{
+				"idOrderHistory": 22,
+				"dateAdd": 1469636519000,
+				"nameOrderStatus": "Punto B: Llegue al Punto de Entrega",
+				"userAdd": "Rubén",
+				"idOrder": 8002
+			},
+			{
+				"idOrderHistory": 23,
+				"dateAdd": 1469637021000,
+				"nameOrderStatus": "Punto B: Punto Entregado",
+				"userAdd": "Rubén",
+				"idOrder": 8002
+			},
+			{
+				"idOrderHistory": 24,
+				"dateAdd": 1469637021000,
+				"nameOrderStatus": "Orden Finalizada",
+				"userAdd": "Rubén",
+				"idOrder": 8002
+			},
+			{
+				"idOrderHistory": 25,
+				"dateAdd": 1469637036000,
+				"nameOrderStatus": "Punto B: Punto Entregado",
+				"userAdd": "Rubén",
+				"idOrder": 8002
+			},
+			{
+				"idOrderHistory": 26,
+				"dateAdd": 1469637036000,
+				"nameOrderStatus": "Orden Finalizada",
+				"userAdd": "Rubén",
+				"idOrder": 8002
+			},
+			{
+				"idOrderHistory": 27,
+				"dateAdd": 1469637049000,
+				"nameOrderStatus": "Punto B: Punto Entregado",
+				"userAdd": "Rubén",
+				"idOrder": 8002
+			},
+			{
+				"idOrderHistory": 28,
+				"dateAdd": 1469637049000,
+				"nameOrderStatus": "Orden Finalizada",
+				"userAdd": "Rubén",
+				"idOrder": 8002
+			}
+		]
+	}
+}
